@@ -1,0 +1,10 @@
+{
+  "kind": "tasks#taskLists",
+  "items": [{
+    "kind": "tasks#tasks",
+    "id": "MTYzNjA2Mjc5NjIyMjU0MTQ1OTc6MDow",
+    "title": "Moje zadania",
+    "updated": "2024-01-26T04:39:40.674159Z",
+    "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/MTYzNjA2Mjc5NjIyMjU0MTQ1OTc6MDow"
+  }]
+}
